@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeparane
+- 👋 Hi, I’m @codeParane
 - 👀 I’m interested in web application development
 - 🌱 I’m currently learning trending frontend technologies
 - 📫 How to reach me @ codeparane@gmail.com
